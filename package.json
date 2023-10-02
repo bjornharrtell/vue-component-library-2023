@@ -8,7 +8,8 @@
   "exports": {
     ".": {
       "import": "./dist/brian-component-lib.js",
-      "require": "./dist/brian-component-lib.umd.cjs"
+      "require": "./dist/brian-component-lib.umd.cjs",
+      "types": "./dist/index.d.ts"
     },
     "./style.css": "./dist/style.css"
   },
